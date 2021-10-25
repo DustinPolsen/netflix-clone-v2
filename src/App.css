@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+.App {
+  background: #111;
+}
+
+.loading__mask {
+  position: fixed;
+  background: #111;
+  width: 100vw;
+  height: 100vh;
+  z-index: 9999;
+}

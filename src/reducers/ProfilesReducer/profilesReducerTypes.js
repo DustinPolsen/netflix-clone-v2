@@ -1,0 +1,6 @@
+export const FETCH_PROFILES = 'FETCH_PROFILES';
+export const ADD_PROFILE = 'ADD_PROFILE';
+export const REMOVE_PROFILE = 'REMOVE_PROFILE';
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
+export const SIGN_OUT = 'SIGN_OUT';
+export const SELECT_PROFILE = 'SELECT_PROFILE';

@@ -1,0 +1,44 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@vitejs/plugin-react": "^4.0.0",
+    "axios": "^0.21.1",
+    "axios-mock-adapter": "^1.19.0",
+    "dotenv": "^16.0.3",
+    "levenshtein": "^1.0.5",
+    "lodash": "^4.17.21",
+    "movie-trailer": "^2.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.10.0",
+    "react-router-dom": "^6.10.0",
+    "react-youtube": "^7.13.1",
+    "styled-components": "^5.3.10",
+    "vite": "^4.3.1",
+    "vite-plugin-svgr": "^2.4.0"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
